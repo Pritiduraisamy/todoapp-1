@@ -1,0 +1,87 @@
+body {
+    background-color: white;
+  }
+ /* .App{
+  display: flex;
+  background-color: white;
+  min-height: 450px;
+  width: 300px;
+  margin:10px;
+} */
+
+  #input{
+   
+    display: flex;
+    width: 557px;
+    height: 47px;
+    left: 410px;
+    background: #F3F3F3;
+    border-radius: 8px;
+    border: none;
+    padding: 4px 8px;
+    margin-inline: 30%;
+    font-size:x-large;
+    border: none;
+    line-height: 22px;
+  }
+  h2{
+    top: 80px;
+    display: flex;
+    left: 410px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-size: 31px;
+    padding-left: 30.4%;
+    padding-top: 60px;
+    color: #000000;
+  } 
+  
+   button {
+    
+    position: absolute; 
+    top: 150px;;
+    left: 62%;
+    align-items:baseline;
+    flex-direction: column;
+    display: flex;
+    padding: 18px 50px;  
+    color: white;
+    background: #EA5959;  
+    border-radius: 4px;
+    border: none;
+    
+  } 
+  
+  /* #input[type=checkbox]:checked {
+    text-decoration: line-through;
+  } */
+
+  #emptytask{
+    position: absolute;  
+    display: flex;
+    align-items:baseline;
+    flex-direction: column;
+    width: 304px;
+    height: 37px;
+    left: 45%;
+    text-align: center;
+    top: 301px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 31px;
+    line-height: 37px;
+    color: #717171;
+  
+  }
+  .p{
+    position: absolute;  
+    display: flex;
+    align-items:baseline;
+    flex-direction: column;
+    width: 304px;
+    height: 37px;
+    left: 45%;
+    /* text-align: center; */
+  }
+  
